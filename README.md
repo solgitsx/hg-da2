@@ -2,6 +2,7 @@
 
 ## 학습이력
 > 2023-09-08 : 학습환경 설정
+> 2023-09-08 : 저장소 임포트, 저장소 이름(hg-da2)
 
 <kbd><img src="https://tensorflowkorea.files.wordpress.com/2022/12/ed98bcec9e90-eab3b5ebb680ed9598eb8a94-eb8db0ec9db4ed84b0-ebb684ec849d-with-ed8c8cec9db4ec8dac_ecbba4ebb284.png" height="700"></kbd>
 
